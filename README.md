@@ -1,5 +1,9 @@
 # E-commerce-Sales-Dashboard
-An overview of sales performance for an e-commerce business. 1  It includes key metrics like total revenue, profit, quantity sold, and average order value (AOV). 2  It also visualizes profit trends by month, product category performance, payment method distribution, and top-performing customers.
+
+📌 Overview
+
+This repository contains an analysis of e-commerce sales Data using Power BI. The dataset provides insights into sales performance, customer purchasing behavior, product trends, and revenue growth.
+
 It includes visualizations for:
 
 **Overall Performance:** Total revenue, profit, quantity sold, and average order value (AOV).
@@ -7,9 +11,25 @@ It includes visualizations for:
 **Product Performance: **Quantity sold by category and payment method.
 **Customer Behavior:** Revenue by customer name.
 
-## Data Sources
+📂 Dataset
 
-The data for this dashboard is likely sourced from a database or data warehouse. The specific tables and fields used are not provided in the image, but they would include information on sales, revenue, product details, customer information, and order details.
+File Name: E-commerce Sales Dashboard.pbix
+
+Format: Power BI Report
+
+Source: E-commerce Sales Data
+
+Contents: Sales transactions, product categories, customer demographics, and revenue analytics.
+
+📊 Power BI Dashboard
+
+The Power BI report provides:
+
+An interactive dashboard with dynamic insights.
+
+Filters for customizable data exploration.
+
+Visualizations covering sales trends, customer segmentation, and revenue breakdown.
 
 ## Visualizations
 
@@ -34,3 +54,11 @@ The data for this dashboard is likely sourced from a database or data warehouse.
 **Customer Segmentation:** Segment customers based on their purchase behavior and target them with personalized offers.
 **Inventory Management:** Optimize inventory levels based on product demand and sales trends.
 **Marketing Campaigns:** Run targeted marketing campaigns to promote high-margin products and attract new customers.
+
+📌 Future Enhancements
+
+Integrating predictive analytics for future sales trends.
+
+Adding regional segmentation for better insights.
+
+Incorporating customer sentiment analysis from reviews.

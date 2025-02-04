@@ -61,3 +61,6 @@ Integrating predictive analytics for future sales trends.
 Adding regional segmentation for better insights.
 
 Incorporating customer sentiment analysis from reviews.
+
+![Ecommerce Sales Dashboard](https://github.com/user-attachments/assets/ce6afe9b-a821-44e7-930d-6a6a03522841)
+

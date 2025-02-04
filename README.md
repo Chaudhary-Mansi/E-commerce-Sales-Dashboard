@@ -11,9 +11,8 @@ It includes visualizations for:
 **Product Performance: **Quantity sold by category and payment method.
 **Customer Behavior:** Revenue by customer name.
 
-📂 Dataset 
+📂 Dataset  <a href="https://github.com/Chaudhary-Mansi/E-commerce-Sales-Dashboard/blob/main/Details.csv">Details</a> <a href="https://github.com/Chaudhary-Mansi/E-commerce-Sales-Dashboard/blob/main/Orders.csv">Orders</a>
 
-Dataset_1: <a href="https://github.com/Chaudhary-Mansi/E-commerce-Sales-Dashboard/blob/main/Details.csv">Details</a>
 File Name: E-commerce Sales Dashboard.pbix
 
 Format: Power BI Report
